@@ -1,2 +1,2 @@
 # Lautaro Madroñal
-# **Tecnico Electronico** - Estudiante de Ingenieria
+**Tecnico Electronico** - Estudiante de Ingenieria
